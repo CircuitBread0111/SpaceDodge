@@ -12,12 +12,12 @@ This is a very early build of the game and the inital version which is in a play
 features are not currently present at the moment.
 
 ## Future Plans (Possible Upcoming features)
--New codebase with much more streamline readability and easier to work on
--Add the ability to load and use sprites (e.g. sprites for the ship and rock)
--New title screen
--Ability to restart the game
--Ability to save your highscores
--Difficulty settings
--Option/settings menu
--Rocket? (maybe a limited amount to blow up rocks, maybe a way to earn them)
+- New codebase with much more streamline readability and easier to work on
+- Add the ability to load and use sprites (e.g. sprites for the ship and rock)
+- New title screen
+- Ability to restart the game
+- Ability to save your highscores
+- Difficulty settings
+- Option/settings menu
+- Rocket? (maybe a limited amount to blow up rocks, maybe a way to earn them)
 
