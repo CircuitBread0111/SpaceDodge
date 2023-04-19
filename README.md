@@ -1,7 +1,7 @@
 # SpaceDodge
 Author: Jerrin C. Redmon
 
-Current Version: 1.0 (Initial release)!
+Current Version: 1.0 Pre-alpha
 
 ## Description
 Space Dodge is a simple 2d high score based video game made in the java programming language.
